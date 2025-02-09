@@ -6,6 +6,7 @@ const Meals=()=>{
         <React.Fragment>
             <MealsSummary/>
             <AvailableMeals/>
+           
         </React.Fragment>
 
     )
